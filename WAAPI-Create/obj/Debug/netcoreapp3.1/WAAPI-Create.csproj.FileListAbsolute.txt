@@ -1,0 +1,17 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WAAPI-Create.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WAAPI-Create.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WAAPI-Create.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WAAPI-Create.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WAAPI-Create.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WAAPI-Create.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WaapiClientCore.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WaapiClientJson.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WaapiClientCore.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\bin\Debug\netcoreapp3.1\WaapiClientJson.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\obj\Debug\netcoreapp3.1\WAAPI-Create.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\obj\Debug\netcoreapp3.1\WAAPI-Create.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\obj\Debug\netcoreapp3.1\WAAPI-Create.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\obj\Debug\netcoreapp3.1\WAAPI-Create.csproj.CopyComplete
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\obj\Debug\netcoreapp3.1\WAAPI-Create.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Create\obj\Debug\netcoreapp3.1\WAAPI-Create.pdb
