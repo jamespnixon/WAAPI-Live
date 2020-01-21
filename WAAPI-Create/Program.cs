@@ -24,14 +24,22 @@ static async Task _Main()
         ak.wwise.core.@object.create,
         new
         {
-            name = "My Second New Object",
-            parent = @"\Actor-Mixer Hierarchy\Default Work Unit\WAAPI_Tests",
-            type = "BlendContainer"
+            name = "Placeholder",
+            parent = @"\Actor-Mixer Hierarchy\Default Work Unit",
+            type = "ActorMixer"
         },
         null);
 
     Console.WriteLine("Made " + objectID["name"]);
-        
+
+            await client.Call(
+                ak.wwise.core.@object.setProperty, new
+                {
+                    @property = "Volume",
+                    @object = objectID["id"],
+                    value = -6
+                },
+                null);
 }
     }
 }
