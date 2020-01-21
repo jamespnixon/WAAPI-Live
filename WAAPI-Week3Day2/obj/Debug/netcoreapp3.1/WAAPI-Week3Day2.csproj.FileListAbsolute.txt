@@ -1,0 +1,17 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WAAPI-Week3Day2.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\obj\Debug\netcoreapp3.1\WAAPI-Week3Day2.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\obj\Debug\netcoreapp3.1\WAAPI-Week3Day2.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WAAPI-Week3Day2.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WAAPI-Week3Day2.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WAAPI-Week3Day2.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WAAPI-Week3Day2.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WAAPI-Week3Day2.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WaapiClientCore.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WaapiClientJson.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WaapiClientCore.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\bin\Debug\netcoreapp3.1\WaapiClientJson.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\obj\Debug\netcoreapp3.1\WAAPI-Week3Day2.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\obj\Debug\netcoreapp3.1\WAAPI-Week3Day2.csproj.CopyComplete
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\obj\Debug\netcoreapp3.1\WAAPI-Week3Day2.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI-Week3Day2\obj\Debug\netcoreapp3.1\WAAPI-Week3Day2.pdb
