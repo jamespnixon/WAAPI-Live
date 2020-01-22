@@ -1,0 +1,17 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WAAPI_Commands_Execute.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\obj\Debug\netcoreapp3.1\WAAPI_Commands_Execute.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\obj\Debug\netcoreapp3.1\WAAPI_Commands_Execute.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\obj\Debug\netcoreapp3.1\WAAPI_Commands_Execute.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WAAPI_Commands_Execute.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WAAPI_Commands_Execute.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WAAPI_Commands_Execute.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WAAPI_Commands_Execute.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WAAPI_Commands_Execute.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WaapiClientCore.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WaapiClientJson.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WaapiClientCore.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\bin\Debug\netcoreapp3.1\WaapiClientJson.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\obj\Debug\netcoreapp3.1\WAAPI_Commands_Execute.csproj.CopyComplete
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\obj\Debug\netcoreapp3.1\WAAPI_Commands_Execute.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_Commands_Execute\obj\Debug\netcoreapp3.1\WAAPI_Commands_Execute.pdb
