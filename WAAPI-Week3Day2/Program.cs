@@ -26,8 +26,8 @@ namespace WAAPI_Week3Day2
                 (
                      new JProperty("from", new JObject
                      (
-                     new JProperty("id", new JArray(new string[]
-                    {"<PUT YOUT GUID HERE>"})))
+                     new JProperty("path", new JArray(new string[]
+                    {"\\Actor-Mixer Hierarchy\\Default Work Unit\\Placeholder"})))
                 )
                 );
             var options = new JObject
