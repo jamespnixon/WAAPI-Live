@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAAPI-Create", "WAAPI-Create.csproj", "{5AEE4270-6882-4767-80D3-39FF0B823459}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WAAPI-Create", "WAAPI-Create.csproj", "{5AEE4270-6882-4767-80D3-39FF0B823459}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaapiClientCore", "..\..\..\..\..\..\Program Files (x86)\Audiokinetic\Wwise 2019.1.6.7110\SDK\samples\WwiseAuthoringAPI\cs\WaapiClientCore\WaapiClientCore.csproj", "{BF45323C-2BD1-9F00-34E2-22F5A0ECFB00}"
 EndProject

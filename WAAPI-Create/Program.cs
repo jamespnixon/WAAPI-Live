@@ -19,14 +19,18 @@ static async Task _Main()
     {
         System.Console.WriteLine("We lost connection!");
     };
+            Console.WriteLine("Name?");
+            var newName = Console.ReadLine();
+            Console.WriteLine("Type?");
+            var newType = Console.ReadLine();
 
-    var objectID = await client.Call(
+     var objectID = await client.Call(
         ak.wwise.core.@object.create,
         new
         {
-            name = "Placeholder",
+            name = newName,
             parent = @"\Actor-Mixer Hierarchy\Default Work Unit",
-            type = "ActorMixer"
+            type = newType
         },
         null);
 

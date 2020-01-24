@@ -1,0 +1,11 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\bin\Debug\netcoreapp3.1\Week3Day4.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\bin\Debug\netcoreapp3.1\Week3Day4.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\bin\Debug\netcoreapp3.1\Week3Day4.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\bin\Debug\netcoreapp3.1\Week3Day4.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\bin\Debug\netcoreapp3.1\Week3Day4.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\bin\Debug\netcoreapp3.1\Week3Day4.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\obj\Debug\netcoreapp3.1\Week3Day4.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\obj\Debug\netcoreapp3.1\Week3Day4.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\obj\Debug\netcoreapp3.1\Week3Day4.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\obj\Debug\netcoreapp3.1\Week3Day4.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\Week3Day4\obj\Debug\netcoreapp3.1\Week3Day4.pdb
