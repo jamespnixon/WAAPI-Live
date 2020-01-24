@@ -1,0 +1,17 @@
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.exe
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\obj\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.csprojAssemblyReference.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\obj\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.AssemblyInfoInputs.cache
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\obj\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.AssemblyInfo.cs
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.deps.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.runtimeconfig.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.runtimeconfig.dev.json
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WaapiClientCore.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WaapiClientJson.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WaapiClientCore.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\bin\Debug\netcoreapp3.1\WaapiClientJson.pdb
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\obj\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.csproj.CopyComplete
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\obj\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.dll
+C:\Users\jpnix\Documents\GitHub\WAAPI-Live\WAAPI_GetSwitchInfo\obj\Debug\netcoreapp3.1\WAAPI_GetSwitchInfo.pdb
